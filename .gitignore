@@ -1,0 +1,58 @@
+# =============================
+
+# Ruby / CLI Project (.gitignore)
+
+# =============================
+
+# Bundler
+
+/.bundle/
+/vendor/bundle/
+
+# Ruby compiled files
+
+*.rbc
+
+# Logs and temp files
+
+*.log
+/tmp/
+
+# OS generated files
+
+.DS_Store
+Thumbs.db
+
+# Editor / IDE configs
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment variables
+
+.env
+.env.*
+
+# Test coverage
+
+/coverage/
+
+# Gem files (optional, ignore if not using Bundler)
+
+Gemfile.lock
+
+# Terminal-table cache (if any future temp files)
+
+*.cache
+
+# Backup files
+
+*~
+
+# =============================
+
+# End of .gitignore
+
+# =============================
