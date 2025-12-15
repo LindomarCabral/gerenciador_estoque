@@ -105,7 +105,7 @@ Essas melhorias transformam o projeto inicial em um **mini sistema de vendas**, 
 
 ### Pré-requisitos
 
-* Ruby instalado (versão 2.7+ recomendada)
+* Ruby instalado (versão 3.3+ recomendada)
 * Gem `terminal-table`
 
 ### Instalação da dependência
